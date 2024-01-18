@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains a comprehensive analysis of global renewable energy production based on the dataset obtained from [Kaggle](https://www.kaggle.com/datasets/programmerrdai/renewable-energy). The data has been cleaned and transformed into an interactive Tableau dashboard, providing valuable insights into renewable energy trends. `renewable_energy_dataset.zip` includes the original and cleaned and extracted data.
+This repository contains a comprehensive analysis of global renewable energy production based on the dataset obtained from [Kaggle](https://www.kaggle.com/datasets/programmerrdai/renewable-energy), the data source is IRENA. The data has been cleaned and transformed into an interactive Tableau dashboard, providing valuable insights into renewable energy trends. `renewable_energy_dataset.zip` includes the original and cleaned and extracted data.
 
 ## Purpose
 
